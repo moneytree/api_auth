@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "actionpack", "~> 2.3.2"
   s.add_development_dependency "activesupport", "~> 2.3.2"
   s.add_development_dependency "activeresource", "~> 2.3.2"
-  s.add_development_dependency "rest-client", "~> 1.6.0"
+  s.add_development_dependency "rest-client", "~> 2.1.0"
   s.add_development_dependency "curb", "~> 0.8.1"
 
   s.files         = `git ls-files`.split("\n")
